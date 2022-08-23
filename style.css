@@ -1,0 +1,12 @@
+#IntroP {
+    padding-left:250px;
+    padding-right:250px;
+    font-size:22px;
+}
+#jsPara {
+    padding-left:300px;
+    padding-right:300px;
+}
+body {
+    background: linear-gradient(orange 0%, magenta 100%);
+}
